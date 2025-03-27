@@ -6,13 +6,14 @@
 IntelliFusion TyExec 辅助工具指导手册
 =======================================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
 .. toctree::
    :maxdepth: 2
    :numbered:
-   :caption: content:
+   :caption: TyExec 辅助工具
+   :name: TyExec
+
+   doc_update_info/update_info.md
+   tyexec/introduction.rst
+
 
 
